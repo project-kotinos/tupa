@@ -1,2 +1,2 @@
 torch
-pytorch_pretrained_bert
+pytorch_pretrained_bert==0.6.2
